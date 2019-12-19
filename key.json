@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "game-tv-engg",
+  "private_key_id": "799a1ab1e5cddb7b15aacea81f026e1ba69eb25f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDaVY3DBiDqp/IS\n18HCZ2nAt/5Kix/pFoxPTgV7JRu8xP8IkG8xGAVzntWgCs6SrT55PenBx4Hahhn6\nrCur8ZlNrQuPfjAt9ykCekd2ih9Dq26JrlitD/yaPsXLKyhWrD7i+MeKz0o/7pYy\nDZNdo68AujspDI9IuMuiNmKZw5eVtwNvDbEuQ6qDengqtbVris9Pqc7fxI9bJyyP\nrum2pCoCnz0EZs+arrWjwFIhQw8P9VTJhVUDWvBksUBERh3X40HCqgABuHKABsMi\n+RROsslntOg4qjfua/tr3Pw6RBdW87n3EctMCBZ8Nmiroth56Nb4QIDGrCBMRDo2\nTFT5iqZPAgMBAAECggEAC0gxd5ro94cvJJcejYefeNRpIPv4bah7Hpv2/4qG2OXL\nEeu4uy41FejmvAri6sRl/oja++btyFd2nzPnW86zr8ZZ2xPXtIBZj6W27KKtg+cn\nYpjuPx8c2/GTcfCseHIVG9BkK0GT4iLXgwWdkFCleeGlrfTWsJjP+PVbefuX6SX/\n29u8msH7dEhGoEoNEyskY0iagq09i02J3B+fxipGUJ6+C2qr/BhYqitV8FbzMtN9\n+bj61TxX7eE9F/BN6MCZSVxwUiA2baG8bTif3vjo/jxie78L1Y22iGCSjYv3S6Ig\nay0zh7Od0v9VsBUFnYQdhMseHrswUpsXHWovt2w6pQKBgQD83ECcRs52ZFUdkU6N\na+Ts/RgsoC3tgj29g8BIv35rQ8wo5ot82N6zfivlEh9PCFB/2lLv3tCf2htGVYwC\n6obDUXJXR9x9sgEFyw0yrjZqMVcdepr86WpQt0GvNCwIqwOaRKrISgZxS/T5TI7J\n+BGUarI0UCyRzAFH0DbnaH+N8wKBgQDdC45D//GdoZqu4cVlD+wRsB4Q0lXx0qGb\nXtKNoRRl0ROCn5kShQJ8WABKdiUu+ztkjBic/ZiNOgcHkFrxiPi034e8ypnOpDTU\nl4e2RCn6DmLgxKv4HG/qH0zNL1RHszNvxB7EC47aeU4yTCn2zjYgzpgrlz67APej\nZwF/vR5xNQKBgBgYUNvTb3cepnGz1/1n65+dmoEeHmJEh+eYN2l3Pe+wvTKkjWQv\nMkF+Y2ZnrK4WR713K3IKFG03FmREYJwihwbzquagRWWA4dIQgEh1C2BhJUD83un8\nwBHC9LJiUVPeH/DCXFfLngOLzmM3JWAfkGVJKYQMo8Kc4v5Z2/F/JrB7AoGABGeo\njB5bmEKSLI3/OwZYM/oIf1lRsSH7anc3Ru9A0s6Zzu6TRFU2OXgfeVxlXUxQYK6S\nBv7evWG8ph/wUAPkwOX7dH2tFvsaumnSoIU3OO50dfo1Wxpl+IprI2OgEFW33rBP\n1KROUng8YLA33d06Iuk7CxNWgq+AP9dbpkoEg0kCgYEAn+a8QmFVppoAIyuu+MmQ\neyGZs1/Gdp97H+9LwbeIxUlWesYVtkRtbBmq1r5KG57SuXgrO3UAstrmQvx4nmyb\nIBOZQ2+BSLKnPawxwEt21Iv9shQf4KVAnQLx5UKeMuAUiJUaUt2bsshWdoAc6ykQ\nmtbe4ugq0KBFHF2J0fx2ZCU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "bot-local@game-tv-engg.iam.gserviceaccount.com",
+  "client_id": "113865901018026190602",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bot-local%40game-tv-engg.iam.gserviceaccount.com"
+}
